@@ -1,5 +1,6 @@
 var name = "Susan"
 var height = "74"
+var bear = "blue"
 
 if (name === "Susan") {
   console.log("The name is correct.");
